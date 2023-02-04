@@ -400,7 +400,7 @@
         }
         
         #portfolio .fila .proyecto img {
-            width: 400px;
+            width: 410px;
             height: 250px;
             filter: grayscale(1);
             object-fit: cover;
