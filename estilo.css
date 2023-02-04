@@ -9,9 +9,9 @@
         html {
             scroll-behavior: smooth;
         }
-        /* *********************/
+       
+
         /* seccion I N I C I O */
-        /* *********************/
         
         #inicio {
             background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/inicio1.jpeg");
@@ -230,7 +230,6 @@
         }
         #skills h3{
             font-size: 40px;
-            font-family: '#727474';
             text-align: center;
             padding: 20px 0;
         
@@ -244,7 +243,6 @@
         }
         #skills .fila .col h3{
             font-size: 28px;
-            font-family: 'Righteous';
             margin-bottom: 25px;
         }
         #skills .skill > span{
@@ -368,9 +366,9 @@
             0%{width: 0%;}
             100%{width: 80%;}
         }
-        /* *********************/
+    
+
         /* seccion P O R T F O L I O */
-        /* *********************/
         
         #portfolio {
             background-color: #060708;
@@ -429,10 +427,10 @@
             opacity: 1;
             bottom: 0;
         }
-        /* *********************/
+       
+
         /* seccion C O N T A C T O */
-        /* *********************/
-        
+    
         #contacto {
             background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/inicio.jpeg");
             padding: 100px 15px;
@@ -494,9 +492,9 @@
             background-color: crimson;
             color: #fff;
         }
-        /* *********************/
+        
+
         /* seccion F O O T E R */
-        /* *********************/
         
         footer {
             background-color: #000;
@@ -519,9 +517,8 @@
         }
 
         
-        /* *********************/
+      
         /* seccion R E S P O N S I V E */
-        /* *********************/
         
         @media screen and (max-width: 800px) {
             .redes {
